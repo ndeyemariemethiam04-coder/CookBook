@@ -1,0 +1,439 @@
+[
+  {
+    "id": "1",
+    "name": "Creamy Chicken Pasta",
+    "category": "Pasta",
+    "area": "Italy",
+    "emoji": "🍝",
+    "time": "30 min",
+    "servings": 4,
+    "ingredients": [
+      "400 g pasta (penne or tagliatelle)",
+      "2 chicken breasts",
+      "200 ml crème fraîche",
+      "1 onion",
+      "2 garlic cloves",
+      "50 g grated Parmesan cheese",
+      "2 tablespoons olive oil",
+      "1 teaspoon paprika",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook the pasta in a large pot of salted water according to the package instructions. Save one glass of pasta water, then drain.",
+      "Cut the chicken into small cubes and season with salt, pepper, and paprika.",
+      "Heat the oil in a pan and cook the chicken for 6 to 8 minutes until golden. Set aside on a plate.",
+      "In the same pan, sauté the chopped onion and minced garlic for 3 minutes.",
+      "Pour in the cream and add the Parmesan. Let the sauce thicken for 3 minutes over low heat.",
+      "Return the chicken to the pan and add the pasta. Mix everything together, adding a little pasta water if the sauce is too thick. Serve hot."
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Spaghetti Bolognese",
+    "category": "Pasta",
+    "area": "Italy",
+    "emoji": "🍝",
+    "time": "45 min",
+    "servings": 4,
+    "ingredients": [
+      "400 g spaghetti",
+      "400 g ground beef",
+      "1 onion",
+      "2 garlic cloves",
+      "1 carrot",
+      "400 g crushed tomatoes",
+      "2 tablespoons tomato paste",
+      "2 tablespoons oil",
+      "1 teaspoon oregano",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Finely chop the onion, garlic, and carrot (or grate the carrot).",
+      "Heat the oil in a large pan and sauté the onion, garlic, and carrot for 5 minutes.",
+      "Add the ground beef and cook for 8 minutes, breaking it apart with a wooden spoon.",
+      "Add the tomato paste, crushed tomatoes, oregano, salt, and pepper.",
+      "Simmer over low heat for 25 minutes, stirring occasionally.",
+      "Meanwhile, cook the spaghetti in salted water, drain, and serve with the sauce."
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Chocolate Lava Cake",
+    "category": "Desserts",
+    "area": "France",
+    "emoji": "🍫",
+    "time": "25 min",
+    "servings": 6,
+    "ingredients": [
+      "200 g dark baking chocolate",
+      "100 g butter",
+      "100 g sugar",
+      "3 eggs",
+      "50 g flour"
+    ],
+    "steps": [
+      "Preheat the oven to 180°C and grease 6 ramekins (or one baking dish).",
+      "Melt the chocolate and butter, cut into pieces, using a double boiler or microwave, stirring occasionally.",
+      "In a mixing bowl, whisk the eggs and sugar until the mixture becomes pale and fluffy.",
+      "Pour in the melted chocolate, then add the flour and mix well.",
+      "Divide the batter evenly among the ramekins.",
+      "Bake for 12 minutes for a molten center (20 minutes if using one large baking dish). Serve warm."
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Soft and Fluffy Yogurt Cake",
+    "category": "Desserts",
+    "area": "France",
+    "emoji": "🍰",
+    "time": "50 min",
+    "servings": 8,
+    "ingredients": [
+      "1 pot of plain yogurt (use the pot as a measuring cup)",
+      "2 pots of sugar",
+      "3 pots of flour",
+      "3 eggs",
+      "1/2 pot of oil",
+      "1 packet of baking powder",
+      "1 packet of vanilla sugar",
+      "Zest of one lemon"
+    ],
+    "steps": [
+      "Preheat the oven to 180°C and grease a loaf cake pan.",
+      "Pour the yogurt into a mixing bowl, then add the sugar, vanilla sugar, and eggs. Mix well.",
+      "Add the oil and lemon zest.",
+      "Sift in the flour and baking powder, then mix until you obtain a smooth batter.",
+      "Pour the batter into the cake pan.",
+      "Bake for 40 to 45 minutes. The cake is ready when a knife inserted into the center comes out clean. Let it cool before removing it from the pan."
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Orange and Mango Juice",
+    "category": "Drinks",
+    "area": "Tropical",
+    "emoji": "🥭",
+    "time": "10 min",
+    "servings": 2,
+    "ingredients": [
+      "4 oranges",
+      "1 ripe mango",
+      "1 tablespoon honey (optional)",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Squeeze the oranges to extract their juice.",
+      "Peel the mango and cut the flesh into pieces.",
+      "Blend the mango with the orange juice (and honey if desired) until smooth.",
+      "Serve chilled with ice cubes."
+    ]
+  },
+  {
+    "id": "6",
+    "name": "French Potato Gratin (Gratin Dauphinois)",
+    "category": "Gratins",
+    "area": "France",
+    "emoji": "🥔",
+    "time": "1 hr 15 min",
+    "servings": 6,
+    "ingredients": [
+      "1 kg potatoes",
+      "500 ml heavy cream",
+      "250 ml milk",
+      "2 garlic cloves",
+      "30 g butter",
+      "100 g grated Gruyère cheese (optional)",
+      "1 pinch of nutmeg",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 180°C. Rub a baking dish with a garlic clove, then butter the dish.",
+      "Peel the potatoes and cut them into thin slices. Do not wash them, so they retain their starch.",
+      "Mix the cream, milk, minced garlic, salt, pepper, and nutmeg.",
+      "Arrange the potato slices in layers in the baking dish and pour the cream mixture over them.",
+      "Sprinkle with grated Gruyère cheese if desired.",
+      "Bake for 1 hour, until the top is golden brown. Let it rest for 5 minutes before serving."
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Homemade Burger",
+    "category": "Fast Food",
+    "area": "United States",
+    "emoji": "🍔",
+    "time": "30 min",
+    "servings": 4,
+    "ingredients": [
+      "4 burger buns",
+      "400 g ground beef",
+      "4 slices of cheddar cheese",
+      "1 onion",
+      "1 tomato",
+      "A few lettuce leaves",
+      "Pickles",
+      "Ketchup, mustard, and mayonnaise",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Divide the ground beef into 4 portions and shape them into patties slightly wider than the buns. Season with salt and pepper.",
+      "Slice the onion, cut the tomato into rounds, and wash the lettuce.",
+      "Cook the patties in a hot pan for 3 to 4 minutes on each side. Place a slice of cheddar on each patty at the end of cooking.",
+      "Lightly toast the burger buns after cutting them in half.",
+      "Spread the sauces on the buns, then layer the lettuce, tomato, onion, pickles, and beef patty.",
+      "Close the burgers and serve immediately, with fries if desired."
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Homemade Pizza",
+    "category": "Fast Food",
+    "area": "Italy",
+    "emoji": "🍕",
+    "time": "1 hr 30 min (including resting time)",
+    "servings": 4,
+    "ingredients": [
+      "300 g flour",
+      "1 packet dry yeast (7 g)",
+      "180 ml lukewarm water",
+      "2 tablespoons olive oil",
+      "1 teaspoon salt",
+      "1 teaspoon sugar",
+      "200 g tomato sauce",
+      "200 g mozzarella",
+      "Ham or chicken, olives (your choice)",
+      "1 teaspoon oregano"
+    ],
+    "steps": [
+      "Mix the yeast, sugar, and lukewarm water. Let it rest for 10 minutes until the mixture becomes foamy.",
+      "In a mixing bowl, combine the flour and salt, then add the yeast mixture and oil.",
+      "Knead for 10 minutes until you obtain a soft dough. Cover and let it rise for 1 hour in a warm place.",
+      "Preheat the oven to 240°C. Roll out the dough onto a baking tray.",
+      "Spread the tomato sauce over the dough, add the mozzarella, your chosen toppings, and oregano.",
+      "Bake for 10 to 12 minutes, until the crust is golden and the cheese has melted."
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Chicken Shawarma",
+    "category": "Fast Food",
+    "area": "Middle East",
+    "emoji": "🌯",
+    "time": "40 min (+ 2 hours marinating)",
+    "servings": 4,
+    "ingredients": [
+      "600 g chicken breasts",
+      "1 plain yogurt",
+      "3 tablespoons oil",
+      "3 garlic cloves",
+      "Juice of one lemon",
+      "2 teaspoons paprika",
+      "1 teaspoon cumin",
+      "1 teaspoon turmeric",
+      "1/2 teaspoon cinnamon",
+      "4 pita breads or flatbreads",
+      "Lettuce, tomatoes, red onion, and pickles",
+      "Sauce: 4 tablespoons yogurt, 1 garlic clove, and a squeeze of lemon juice"
+    ],
+    "steps": [
+      "Cut the chicken into thin strips.",
+      "Mix the yogurt, oil, crushed garlic, lemon juice, and all the spices. Add the chicken and marinate in the refrigerator for at least 2 hours.",
+      "Prepare the sauce by mixing the yogurt, crushed garlic, lemon juice, salt, and pepper.",
+      "Cook the chicken in a hot pan for 8 to 10 minutes, until golden brown and fully cooked.",
+      "Warm the pita breads and fill them with lettuce, tomatoes, onion, and pickles.",
+      "Add the chicken, drizzle with the sauce, roll tightly, and serve."
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Vegetable Soup",
+    "category": "Soups",
+    "area": "France",
+    "emoji": "🥣",
+    "time": "40 min",
+    "servings": 4,
+    "ingredients": [
+      "3 carrots",
+      "2 potatoes",
+      "2 leeks",
+      "2 zucchini",
+      "1 onion",
+      "1 vegetable stock cube",
+      "1 liter water",
+      "2 tablespoons oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Peel and cut all the vegetables into pieces.",
+      "Heat the oil in a large pot and sauté the onion and leeks for 5 minutes.",
+      "Add the remaining vegetables, water, and stock cube.",
+      "Bring to a boil, then cook over medium heat for 25 minutes.",
+      "Blend until smooth. Adjust the seasoning and serve hot."
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Beef and Carrot Stew",
+    "category": "Stews",
+    "area": "France",
+    "emoji": "🍲",
+    "time": "2 hr 15 min",
+    "servings": 4,
+    "ingredients": [
+      "800 g stewing beef",
+      "4 carrots",
+      "3 potatoes",
+      "2 onions",
+      "2 garlic cloves",
+      "2 tablespoons tomato paste",
+      "2 tablespoons flour",
+      "500 ml beef stock",
+      "1 sprig of thyme and 1 bay leaf",
+      "2 tablespoons oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cut the beef into large cubes. Peel and cut the vegetables into pieces.",
+      "Heat the oil in a large pot and brown the beef on all sides. Set aside.",
+      "Sauté the onions and garlic for 3 minutes, then return the beef to the pot. Sprinkle with flour and mix.",
+      "Add the tomato paste, stock, thyme, bay leaf, salt, and pepper.",
+      "Cover and simmer over low heat for 1 hour and 15 minutes.",
+      "Add the carrots and potatoes, then continue cooking for 40 minutes. The meat should be tender."
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Thieboudienne (Senegalese Fish and Rice)",
+    "category": "Senegalese",
+    "area": "Senegal",
+    "emoji": "🐟",
+    "time": "1 hr 30 min",
+    "servings": 6,
+    "ingredients": [
+      "1 kg fish (white grouper, sea bream, or grouper), cut into pieces",
+      "600 g broken rice",
+      "2 carrots, 1 eggplant, 1/4 cabbage, 1 turnip, 1 sweet potato",
+      "1 onion",
+      "3 tablespoons tomato paste and 2 fresh tomatoes",
+      "200 ml oil",
+      "1 whole chili pepper (optional)",
+      "1 stock cube",
+      "Stuffing (rof): 1 bunch of parsley, 3 garlic cloves, 1 small onion, salt, and pepper"
+    ],
+    "steps": [
+      "Prepare the stuffing by finely chopping the parsley, garlic, onion, salt, and pepper together. Make cuts in the fish and fill them with this mixture.",
+      "Heat the oil in a large pot and fry the fish for 10 minutes until golden. Set aside.",
+      "In the same oil, sauté the sliced onion, then add the tomato paste and fresh tomatoes. Cook for 10 minutes.",
+      "Pour in 2 liters of water, add the stock cube and chili pepper, then bring to a boil.",
+      "Add the vegetables and cook for 25 minutes. Remove them when tender, then return the fish to the sauce for 10 minutes before removing it again.",
+      "Wash the rice, add it to the remaining sauce (approximately 1 liter), and cook covered over low heat for 25 to 30 minutes.",
+      "Serve the rice on a large platter and arrange the fish and vegetables on top."
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Chicken Yassa",
+    "category": "Senegalese",
+    "area": "Senegal",
+    "emoji": "🍗",
+    "time": "1 hr 15 min (+ marinating time)",
+    "servings": 4,
+    "ingredients": [
+      "1 whole chicken, cut into pieces (or 1 kg chicken thighs)",
+      "6 large onions",
+      "Juice of 4 lemons",
+      "3 tablespoons mustard",
+      "4 garlic cloves",
+      "100 ml oil",
+      "1 bay leaf",
+      "1 chili pepper (optional) and a few olives",
+      "1 stock cube",
+      "White rice for serving"
+    ],
+    "steps": [
+      "Thinly slice the onions. Mix them with the lemon juice, mustard, crushed garlic, salt, and pepper.",
+      "Add the chicken to the marinade and let it rest for at least 2 hours (ideally overnight) in the refrigerator.",
+      "Remove the chicken from the marinade (keep the onions) and grill it in the oven or in a pan until golden brown.",
+      "Heat the oil in a large pot, add the marinated onions, and cook for 15 minutes, stirring occasionally.",
+      "Add the chicken, bay leaf, crumbled stock cube, one glass of water, and chili pepper. Simmer over low heat for 30 minutes.",
+      "Add the olives at the end of cooking and serve with white rice."
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Mafe (Senegalese Peanut Sauce Stew)",
+    "category": "Senegalese",
+    "area": "Senegal",
+    "emoji": "🥜",
+    "time": "1 hr 30 min",
+    "servings": 6,
+    "ingredients": [
+      "800 g meat (beef or chicken), cut into pieces",
+      "200 g natural peanut paste (unsweetened peanut butter)",
+      "2 onions",
+      "3 tablespoons tomato paste",
+      "2 carrots, 2 sweet potatoes, 1 turnip",
+      "4 tablespoons oil",
+      "1 liter water",
+      "1 whole chili pepper (optional)",
+      "Salt and pepper",
+      "White rice for serving"
+    ],
+    "steps": [
+      "Heat the oil in a large pot and brown the meat with the sliced onions.",
+      "Add the tomato paste and cook for 5 minutes.",
+      "Dilute the peanut paste in a little warm water, then pour it into the pot with the remaining water, salt, pepper, and chili pepper.",
+      "Simmer over low heat for 40 minutes, stirring frequently to prevent the sauce from sticking.",
+      "Add the vegetables cut into large pieces and continue cooking for 30 minutes, until the sauce thickens and the oil rises to the surface.",
+      "Serve hot with white rice."
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Thiakry (Millet Couscous Dessert)",
+    "category": "Senegalese",
+    "area": "Senegal",
+    "emoji": "🥛",
+    "time": "30 min (+ chilling time)",
+    "servings": 6,
+    "ingredients": [
+      "500 g millet couscous (chere)",
+      "500 g plain yogurt (or fermented milk)",
+      "200 g sweetened condensed milk",
+      "2 packets vanilla sugar",
+      "1 pinch of nutmeg",
+      "1 handful of raisins",
+      "20 g butter"
+    ],
+    "steps": [
+      "Lightly moisten the millet couscous and steam it for 20 minutes.",
+      "Mix the hot couscous with the butter, then let it cool completely, separating the grains with a fork.",
+      "In a mixing bowl, combine the yogurt, condensed milk, vanilla sugar, nutmeg, and raisins.",
+      "Add the cooled couscous to the cream mixture and gently stir.",
+      "Refrigerate for at least 2 hours. Serve well chilled."
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Bissap (Hibiscus Juice)",
+    "category": "Senegalese",
+    "area": "Senegal",
+    "emoji": "🌺",
+    "time": "20 min (+ steeping time)",
+    "servings": 6,
+    "ingredients": [
+      "100 g dried hibiscus flowers (bissap)",
+      "1.5 liters water",
+      "150 g sugar",
+      "1 handful of fresh mint leaves",
+      "1 packet vanilla sugar",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Rinse the hibiscus flowers with cold water.",
+      "Bring the water to a boil, add the flowers, and boil for 10 minutes.",
+      "Turn off the heat, add the mint, and let it steep for 2 hours.",
+      "Strain the liquid, add the sugar and vanilla sugar, then stir until dissolved.",
+      "Refrigerate and serve well chilled with ice cubes."
+    ]
+  }
+]
